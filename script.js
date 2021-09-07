@@ -41,7 +41,7 @@ var swiper = new Swiper(".home-slider", {
     loop: true,
 });
 
-let countDate = new Date('Sep 15, 2021 00:00:00').getTime();
+let countDate = new Date('Oct 3, 2021 00:00:00').getTime();
 
 function countDown(){
 
